@@ -108,3 +108,20 @@ ENV/
 .idea/modules.xml
 .idea/workspace.xml
 experiments/
+
+# csv files
+*.csv
+
+# all data files
+*.data
+
+# all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.svg
+*.tif
+*.tiff

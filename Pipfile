@@ -12,6 +12,7 @@ scikit-learn = "*"
 pandas = "*"
 scikeras = "*"
 keras-tuner = "*"
+nltk = "*"
 
 [dev-packages]
 
