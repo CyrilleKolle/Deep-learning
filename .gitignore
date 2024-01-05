@@ -125,3 +125,10 @@ experiments/
 *.svg
 *.tif
 *.tiff
+# all tensorflow files
+*.pb
+*.pbtxt
+*.ckpt
+
+# all venv files
+deep_learning_venv/
